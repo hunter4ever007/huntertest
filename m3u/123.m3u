@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Venus
+#EXTINF:-1,Venuss
 http://edge8.telesport.pw:80/live/venus/index.m3u8|User-Agent=Ipad&.ts
 #EXTINF:-1,Playboy VLC
 http://edge6.telesport.pw:80/live/playboy/index.m3u8|User-Agent=Ipad&.ts
