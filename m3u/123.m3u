@@ -19,3 +19,13 @@ http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-73/0/pc.m3u8
 http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-74/0/pc.m3u8
 #EXTINF:-1,NO NAME
 http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-92/0/pc.m3u8
+#EXTINF:-1,satisfaction
+http://playlist.prg09.v-ip-tv.com/atip/d23b9a259f5516d1cddfca6106658383/1499768397472/channel-80/1/514.m3u8
+#EXTINF:-1,JASMIN
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w195696788.m3u8
+#EXTINF:-1,Visit-x
+http://stream.visit-x.tv/vxtv/live_360p/chunklist_w2011169557.m3u8
+#EXTINF:-1,Nuart
+http://212.47.244.173:8081/live/nuart/chunks.m3u8?nimblesessionid=1308369&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMS8yMDE3IDEwOjI1OjM0IEFNJmhhc2hfdmFsdWU9OHA0ZDlkTElnclFBektnRk9USW9DUT09JnZhbGlkbWludXRlcz0zMA==
+#EXTINF:-1,passie
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1877327213.m3u8
