@@ -21,65 +21,31 @@ http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-74/0/pc.m3u8
 http://playlist.prg09.v-ip-tv.com/atip/0/0/channel-92/0/pc.m3u8
 #EXTINF:-1,satisfa
 http://playlist.prg09.v-ip-tv.com/atip/d23b9a259f5516d1cddfca6106658383/1499768397472/channel-80/1/514.m3u8
-#EXTINF:-1,JASM
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w195696788.m3u8
+#EXTINF:-1 group-title="Internacional" ,English: Russian 18+
+http://51.254.39.37/TV/RUS/flashstream.m3u8?ch=689
 #EXTINF:-1,passii
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1877327213.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: +18 JASMIN TV XXX
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: BABESTATION (+18)
-http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: BABESTATION UNLEASHED 2
-http://publish2.firestormmedia.tv:1935/ingest_cellcast//livestream_two1/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: BABESTATION XTRA
-http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder71/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Brazzers Tv - HD +18
-http://thumbnails.4network.tv/forbidden/forbidden.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Butgo tv
-http://edge2.everyon.tv/etv2sb/pld772/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Girls 4 U
-http://edge2.everyon.tv/etv2sb/phd501/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" ,English: HOT+18
 http://livetvhd.iptvpro.biz:8000/live/Joaoborges/y6ijfs2Ncx/149.ts
-#EXTINF:-1 group-title="Internacional" ,English: Hot And Wet    (Adult)
-http://publish.thewebstream.co:1935/leved/_definst_/hotandwet2/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: JASMIN
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?www.jasmin.com
-#EXTINF:-1 group-title="Internacional" ,English: Jasmin.Tv
-rtmp://109.71.162.112:1935/live/hd.jasminchannel.stream
-#EXTINF:-1 group-title="Internacional" ,English: Jasmine xxx
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Over 18 - Babestation
-rtsp://51.254.198.110:1935/ingest_cellcast/encoder72
-#EXTINF:-1 group-title="Internacional" ,English: Over 18 - Candy
-http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Over 18 - Jasmin HD
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Over 18 - Web cam
-http://publish.thewebstream.co:1935/leved/livesexlatinas/iptvero17.m3u8
 #EXTINF:-1 group-title="Internacional" ,English: PLAYBOY TV +18
-http://livetvhd.iptvpro.biz:8000/live/Joaoborges/y6ijfs2Ncx/306.ts
-#EXTINF:-1 group-title="Internacional" ,English: Playboy
-http://s1.edem.tv/iptv/2KEA8RLE4V3RF6/527/index.m3u8
+http://livetvhd.iptvpro.biz:8000/live/Joaoborges/y6ijfs2Ncx/306.m3u8
 #EXTINF:-1 group-title="Internacional" ,English: REDLIGHT +18
 http://livetvhd.iptvpro.biz:8000/live/Joaoborges/y6ijfs2Ncx/1483.ts
 #EXTINF:-1 group-title="Internacional" ,English: TV REALITY
 http://iptvsbh.ddns.net:8003/live/moreira/moreira/865.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: TV XX1
-http://195.189.238.18/streaming/tv21/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Xxl
-http://en356.edem.tv/iptv/N65MFRE5RNF6KB/525/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: Xxl tv
-http://fr456.edem.tv/iptv/6SCBNQGDNSZUBZ/525/index.m3u8
 #EXTINF:-1 group-title="Internacional" ,English: fuck
 http://212.47.244.173:8081/live/eroxxx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMTcgMTowNDo0NyBQTSZoYXNoX3ZhbHVlPXdrSmxHU0hQK0Zud1FYb0tnc0VVTlE9PSZ2YWxpZG1pbnV0ZXM9MjA=
-#EXTINF:-1 group-title="Internacional" ,English: girl 4 u
-http://edge2.everyon.tv/etv2sb/pld501/playlist.m3u8
 #EXTINF:-1 group-title="Internacional" ,English: xtremer  18
 rtmp://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream
-#EXTINF:-1 group-title="Internacional" ,English: xx1
-http://en356.edem.tv/iptv/K8RL4XXEQ9U5F2/526/index.m3u8
-#EXTINF:-1 group-title="Internacional" ,English: xxl
-http://hls.novotelecom.ru/streaming/tv21/tvrec/playlist.m3u8
-
-
+#EXTINF:-1,JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,JASMIN
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w195696788.m3u8
+#EXTINF:-1,JASMIN
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?www.jasmin.com
+#EXTINF:-1,JASMIN
+rtmp://109.71.162.112:1935/live/hd.jasminchannel.stream
+#EXTINF:-1,JASMIN
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1,JASMIN
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
